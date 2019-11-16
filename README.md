@@ -1,4 +1,6 @@
 # EIP4_new
+print(score):
+[0.035290225596381404, 0.9941]
 
 Convolution: 
   It is function where a matrix or a vector slides over another vector with corresponding elements multiplied and results summed up.
